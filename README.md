@@ -1,0 +1,2 @@
+# goWiki
+Playing with Go
